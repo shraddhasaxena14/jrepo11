@@ -1,0 +1,16 @@
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.csproj.AssemblyReference.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.AssemblyInfoInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.AssemblyInfo.cs
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.csproj.CoreCompileInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.exe
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.deps.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.runtimeconfig.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.runtimeconfig.dev.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\bin\Debug\net5.0\ref\prjfirstapplication.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\ref\prjfirstapplication.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.genruntimeconfig.cache

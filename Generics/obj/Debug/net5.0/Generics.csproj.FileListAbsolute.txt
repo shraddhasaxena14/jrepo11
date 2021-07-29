@@ -1,0 +1,16 @@
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\bin\Debug\net5.0\Generics.exe
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\bin\Debug\net5.0\Generics.deps.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\bin\Debug\net5.0\Generics.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\bin\Debug\net5.0\ref\Generics.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\bin\Debug\net5.0\Generics.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\ref\Generics.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache

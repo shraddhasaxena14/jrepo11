@@ -1,0 +1,16 @@
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.csproj.AssemblyReference.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.AssemblyInfoInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.AssemblyInfo.cs
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.csproj.CoreCompileInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\bin\Debug\net5.0\Day2_Inheritance.exe
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\bin\Debug\net5.0\Day2_Inheritance.deps.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\bin\Debug\net5.0\Day2_Inheritance.runtimeconfig.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\bin\Debug\net5.0\Day2_Inheritance.runtimeconfig.dev.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\bin\Debug\net5.0\Day2_Inheritance.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\bin\Debug\net5.0\ref\Day2_Inheritance.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\bin\Debug\net5.0\Day2_Inheritance.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\ref\Day2_Inheritance.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\Day2_Inheritance\obj\Debug\net5.0\Day2_Inheritance.genruntimeconfig.cache
